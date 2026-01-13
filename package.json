@@ -16,7 +16,7 @@
     "@clerk/nextjs": "^5.2.10",
     "@headlessui/react": "^2.1.2",
     "@heroicons/react": "^2.1.5",
-    "better-sqlite3": "^12.6.0",
+    "@libsql/client": "^0.17.0",
     "clsx": "^2.1.1",
     "dotenv": "^17.2.3",
     "drizzle-orm": "^0.45.1",

@@ -61,7 +61,9 @@ A modern, real-time chat application built with Next.js, featuring guild/server 
 
    ```env
    # Database
-   DATABASE_URL="your_database_url_here"
+   TURSO_DATABASE_URL=database_url
+   TURSO_AUTH_TOKEN=database_auth_token
+
 
    # Clerk Authentication
    NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
