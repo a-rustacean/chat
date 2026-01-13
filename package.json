@@ -29,7 +29,7 @@
     "react": "^18",
     "react-dom": "^18",
     "tailwind-merge": "^3.4.0",
-    "zustand": "^4.5.4"
+    "zustand": "^5.0.10"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.13",
