@@ -27,7 +27,7 @@
     "pusher": "^5.2.0",
     "pusher-js": "^8.4.0-rc2",
     "react": "^18",
-    "react-dom": "^19",
+    "react-dom": "^18",
     "tailwind-merge": "^3.4.0",
     "zustand": "^4.5.4"
   },
@@ -35,7 +35,7 @@
     "@types/better-sqlite3": "^7.6.13",
     "@types/node": "^25",
     "@types/react": "^18",
-    "@types/react-dom": "^19",
+    "@types/react-dom": "^18",
     "drizzle-kit": "^0.31.8",
     "eslint": "^9.39.2",
     "eslint-config-next": "^16.1.1",
