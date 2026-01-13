@@ -1,0 +1,5 @@
+@a-rustacean
+
+# Ignore lock file
+
+package-lock.json
