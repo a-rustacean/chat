@@ -20,7 +20,7 @@
     "clsx": "^2.1.1",
     "dotenv": "^17.2.3",
     "drizzle-orm": "^0.45.1",
-    "emoji-picker-react": "^4.16.1",
+    "emoji-picker-react": "^4.17.1",
     "lucide-react": "^0.563.0",
     "next": "14.2.35",
     "next-themes": "^0.4.6",
